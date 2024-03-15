@@ -1,0 +1,6 @@
+{
+  "image": "python:latest",
+  "features": {
+    "ghcr.io/joshspicer/more-features/cowsay:1": {}
+  }
+}
